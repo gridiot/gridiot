@@ -1,0 +1,75 @@
+body{
+    background: #1f1f1f;
+    color: white;
+    
+
+}
+.ced{ 
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 15px;
+    justify-content: center;
+}
+.logo{
+    height: 60px;
+    margin-right: 10px  
+}
+
+.tg{
+    width: 30px;
+    height: 30px;
+    display: block;
+	margin: 0 auto;
+    padding-bottom: 40px;
+}
+.menu{
+  text-decoration: none;   
+  color: white;             
+  font-size: 16px;         
+  padding: 8px 12px;       
+  border-radius: 4px;      
+  transition: background 0.3s;
+    
+}
+.img{    
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 15px;
+    justify-content: center;
+}
+.pc1{
+    padding-top: 10px;
+    height: 800px;
+    transition: background 0.3s
+}
+.aboba{
+    font-size: 50px;
+    text-align: center;
+}
+
+h3{
+    padding-top: 30px;
+}
+
+.ser{
+    display: flex;
+    align-items: center;
+    padding: 30px;
+    justify-content: center;
+    gap: 20px;
+}
+.pc2{
+    height: 500px;
+    padding-right: 50px;
+}
+.pc3{
+    height: 500px;    
+}
+.mon{
+    height: 400px;
+}
+footer{
+    padding-top: 30px;
+}
